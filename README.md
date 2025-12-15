@@ -1,3 +1,33 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RPI-Computer-Club-rpicc/RPI-Computer-Club-rpicc/refs/heads/main/logo-final-3.0.png" alt="RPI Computer Club" width="200" height="200" />
+
+# RPI Computer Club
+
+**Backend for the Rajshahi Polytechnic Institute Computer Club ecosystem.**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-ff1709?logo=django&logoColor=white)](https://www.django-rest-framework.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+Empowering students through technology, innovation, and community at  
+**Rajshahi Polytechnic Institute.**
+
+---
+
+
+[![GitHub](https://img.icons8.com/ios-filled/30/ffffff/github.png)](https://github.com/RPI-Computer-Club-rpicc)
+[![LinkedIn](https://img.icons8.com/ios-filled/30/0077B5/linkedin.png)](https://www.linkedin.com/company/rpi-computer-club/)
+[![Facebook](https://img.icons8.com/ios-filled/30/1877F2/facebook-new.png)](https://www.facebook.com/people/Computer-Club-Rpi/61581226467108/)
+[![Instagram](https://img.icons8.com/ios-filled/30/E4405F/instagram-new.png)](https://www.instagram.com/rpi.cc)
+[![YouTube](https://img.icons8.com/ios-filled/30/FF0000/youtube-play.png)](https://www.youtube.com/@rpicomputerclub)
+[![Discord](https://img.icons8.com/ios-filled/30/5865F2/discord-logo.png)](https://discord.gg/4RDVuuJW)
+
+</div>
+
+
+
 # RPI Computer Club Server
 
 Backend for the Rajshahi Polytechnic Institute Computer Club ecosystem. This Django 5.2 API handles authentication, member profiles, squad management, notices, events, and payments while syncing with Supabase PostgreSQL and serving JWT-protected endpoints for React/Vite clients.
